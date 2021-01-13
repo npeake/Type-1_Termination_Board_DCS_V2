@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Type 1 Termination Board v3-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -83,4 +84,8 @@ Wire Wire Line
 	2020 2770 2020 2760
 Text HLabel 1660 2770 1    50   Input ~ 0
 GND
+Text HLabel 2030 2560 1    50   Input ~ 0
+LV
+Text HLabel 1990 2960 3    50   Input ~ 0
+return
 $EndSCHEMATC
