@@ -1,0 +1,349 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text GLabel 3170 3865 2    50   Input ~ 0
+Gnd
+$Comp
+L Connector_Generic:Conn_01x40 TLH1
+U 1 1 60626616
+P 2695 3175
+F 0 "TLH1" H 2613 950 50  0000 C CNN
+F 1 "Conn_01x40" H 2613 1041 50  0000 C CNN
+F 2 "SCIPP_Connectors:TLH 20 Pin" H 2695 3175 50  0001 C CNN
+F 3 "~" H 2695 3175 50  0001 C CNN
+	1    2695 3175
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2895 4675 3170 4675
+Wire Wire Line
+	3170 4275 2895 4275
+Wire Wire Line
+	3170 5075 3170 4975
+Wire Wire Line
+	2895 5075 3170 5075
+Connection ~ 3170 4675
+Wire Wire Line
+	2895 3475 3170 3475
+Connection ~ 3170 4275
+Wire Wire Line
+	3170 4275 3170 4575
+Wire Wire Line
+	2890 2875 2895 2875
+Wire Wire Line
+	3170 2875 3170 3375
+Connection ~ 2895 2875
+Wire Wire Line
+	2895 2875 3170 2875
+Connection ~ 3170 3475
+Wire Wire Line
+	2895 2475 3170 2475
+Connection ~ 3170 2875
+Wire Wire Line
+	2895 2475 2895 2375
+Connection ~ 2895 2475
+Connection ~ 2895 1275
+Wire Wire Line
+	2895 1275 2895 1175
+Connection ~ 2895 1375
+Wire Wire Line
+	2895 1375 2895 1275
+Connection ~ 2895 1475
+Wire Wire Line
+	2895 1475 2895 1375
+Connection ~ 2895 1575
+Wire Wire Line
+	2895 1575 2895 1475
+Connection ~ 2895 1675
+Wire Wire Line
+	2895 1675 2895 1575
+Connection ~ 2895 1775
+Wire Wire Line
+	2895 1775 2895 1675
+Connection ~ 2895 1875
+Wire Wire Line
+	2895 1875 2895 1775
+Connection ~ 2895 1975
+Wire Wire Line
+	2895 1975 2895 1875
+Connection ~ 2895 2075
+Wire Wire Line
+	2895 2075 2895 1975
+Connection ~ 2895 2175
+Wire Wire Line
+	2895 2175 2895 2075
+Connection ~ 2895 2275
+Wire Wire Line
+	2895 2275 2895 2175
+Connection ~ 2895 2375
+Wire Wire Line
+	2895 2375 2895 2275
+Wire Wire Line
+	2895 4975 3170 4975
+Connection ~ 3170 4975
+Wire Wire Line
+	3170 4975 3170 4675
+Wire Wire Line
+	2895 4575 3170 4575
+Connection ~ 3170 4575
+Wire Wire Line
+	3170 4575 3170 4675
+Wire Wire Line
+	2895 4175 3170 4175
+Connection ~ 3170 4175
+Wire Wire Line
+	3170 4175 3170 4275
+Wire Wire Line
+	2895 3575 3170 3575
+Wire Wire Line
+	3170 3475 3170 3575
+Connection ~ 3170 3575
+Wire Wire Line
+	3170 3575 3170 4175
+Wire Wire Line
+	2895 3375 3170 3375
+Connection ~ 3170 3375
+Wire Wire Line
+	3170 3375 3170 3475
+Wire Wire Line
+	2895 2775 3170 2775
+Wire Wire Line
+	3170 2475 3170 2775
+Connection ~ 3170 2775
+Wire Wire Line
+	3170 2775 3170 2875
+Text GLabel 4845 3785 2    50   Input ~ 0
+Gnd
+$Comp
+L Connector_Generic:Conn_01x40 TLH?
+U 1 1 6063AB1A
+P 4370 3095
+F 0 "TLH?" H 4288 870 50  0000 C CNN
+F 1 "Conn_01x40" H 4288 961 50  0000 C CNN
+F 2 "SCIPP_Connectors:TLH 20 Pin" H 4370 3095 50  0001 C CNN
+F 3 "~" H 4370 3095 50  0001 C CNN
+	1    4370 3095
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4570 4595 4845 4595
+Wire Wire Line
+	4845 4195 4570 4195
+Wire Wire Line
+	4845 4995 4845 4895
+Wire Wire Line
+	4570 4995 4845 4995
+Connection ~ 4845 4595
+Wire Wire Line
+	4570 3395 4845 3395
+Connection ~ 4845 4195
+Wire Wire Line
+	4845 4195 4845 4495
+Wire Wire Line
+	4565 2795 4570 2795
+Wire Wire Line
+	4845 2795 4845 3295
+Connection ~ 4570 2795
+Wire Wire Line
+	4570 2795 4845 2795
+Connection ~ 4845 3395
+Wire Wire Line
+	4570 2395 4845 2395
+Connection ~ 4845 2795
+Wire Wire Line
+	4570 2395 4570 2295
+Connection ~ 4570 2395
+Connection ~ 4570 1195
+Wire Wire Line
+	4570 1195 4570 1095
+Connection ~ 4570 1295
+Wire Wire Line
+	4570 1295 4570 1195
+Connection ~ 4570 1395
+Wire Wire Line
+	4570 1395 4570 1295
+Connection ~ 4570 1495
+Wire Wire Line
+	4570 1495 4570 1395
+Connection ~ 4570 1595
+Wire Wire Line
+	4570 1595 4570 1495
+Connection ~ 4570 1695
+Wire Wire Line
+	4570 1695 4570 1595
+Connection ~ 4570 1795
+Wire Wire Line
+	4570 1795 4570 1695
+Connection ~ 4570 1895
+Wire Wire Line
+	4570 1895 4570 1795
+Connection ~ 4570 1995
+Wire Wire Line
+	4570 1995 4570 1895
+Connection ~ 4570 2095
+Wire Wire Line
+	4570 2095 4570 1995
+Connection ~ 4570 2195
+Wire Wire Line
+	4570 2195 4570 2095
+Connection ~ 4570 2295
+Wire Wire Line
+	4570 2295 4570 2195
+Wire Wire Line
+	4570 4895 4845 4895
+Connection ~ 4845 4895
+Wire Wire Line
+	4845 4895 4845 4595
+Wire Wire Line
+	4570 4495 4845 4495
+Connection ~ 4845 4495
+Wire Wire Line
+	4845 4495 4845 4595
+Wire Wire Line
+	4570 4095 4845 4095
+Connection ~ 4845 4095
+Wire Wire Line
+	4845 4095 4845 4195
+Wire Wire Line
+	4570 3495 4845 3495
+Wire Wire Line
+	4845 3395 4845 3495
+Connection ~ 4845 3495
+Wire Wire Line
+	4845 3495 4845 4095
+Wire Wire Line
+	4570 3295 4845 3295
+Connection ~ 4845 3295
+Wire Wire Line
+	4845 3295 4845 3395
+Wire Wire Line
+	4570 2695 4845 2695
+Wire Wire Line
+	4845 2395 4845 2695
+Connection ~ 4845 2695
+Wire Wire Line
+	4845 2695 4845 2795
+Text GLabel 6220 3855 2    50   Input ~ 0
+Gnd
+$Comp
+L Connector_Generic:Conn_01x40 TLH?
+U 1 1 6063F449
+P 5745 3165
+F 0 "TLH?" H 5663 940 50  0000 C CNN
+F 1 "Conn_01x40" H 5663 1031 50  0000 C CNN
+F 2 "SCIPP_Connectors:TLH 20 Pin" H 5745 3165 50  0001 C CNN
+F 3 "~" H 5745 3165 50  0001 C CNN
+	1    5745 3165
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5945 4665 6220 4665
+Wire Wire Line
+	6220 4265 5945 4265
+Wire Wire Line
+	6220 5065 6220 4965
+Wire Wire Line
+	5945 5065 6220 5065
+Connection ~ 6220 4665
+Wire Wire Line
+	5945 3465 6220 3465
+Connection ~ 6220 4265
+Wire Wire Line
+	6220 4265 6220 4565
+Wire Wire Line
+	5940 2865 5945 2865
+Wire Wire Line
+	6220 2865 6220 3365
+Connection ~ 5945 2865
+Wire Wire Line
+	5945 2865 6220 2865
+Connection ~ 6220 3465
+Wire Wire Line
+	5945 2465 6220 2465
+Connection ~ 6220 2865
+Wire Wire Line
+	5945 2465 5945 2365
+Connection ~ 5945 2465
+Connection ~ 5945 1265
+Wire Wire Line
+	5945 1265 5945 1165
+Connection ~ 5945 1365
+Wire Wire Line
+	5945 1365 5945 1265
+Connection ~ 5945 1465
+Wire Wire Line
+	5945 1465 5945 1365
+Connection ~ 5945 1565
+Wire Wire Line
+	5945 1565 5945 1465
+Connection ~ 5945 1665
+Wire Wire Line
+	5945 1665 5945 1565
+Connection ~ 5945 1765
+Wire Wire Line
+	5945 1765 5945 1665
+Connection ~ 5945 1865
+Wire Wire Line
+	5945 1865 5945 1765
+Connection ~ 5945 1965
+Wire Wire Line
+	5945 1965 5945 1865
+Connection ~ 5945 2065
+Wire Wire Line
+	5945 2065 5945 1965
+Connection ~ 5945 2165
+Wire Wire Line
+	5945 2165 5945 2065
+Connection ~ 5945 2265
+Wire Wire Line
+	5945 2265 5945 2165
+Connection ~ 5945 2365
+Wire Wire Line
+	5945 2365 5945 2265
+Wire Wire Line
+	5945 4965 6220 4965
+Connection ~ 6220 4965
+Wire Wire Line
+	6220 4965 6220 4665
+Wire Wire Line
+	5945 4565 6220 4565
+Connection ~ 6220 4565
+Wire Wire Line
+	6220 4565 6220 4665
+Wire Wire Line
+	5945 4165 6220 4165
+Connection ~ 6220 4165
+Wire Wire Line
+	6220 4165 6220 4265
+Wire Wire Line
+	5945 3565 6220 3565
+Wire Wire Line
+	6220 3465 6220 3565
+Connection ~ 6220 3565
+Wire Wire Line
+	6220 3565 6220 4165
+Wire Wire Line
+	5945 3365 6220 3365
+Connection ~ 6220 3365
+Wire Wire Line
+	6220 3365 6220 3465
+Wire Wire Line
+	5945 2765 6220 2765
+Wire Wire Line
+	6220 2465 6220 2765
+Connection ~ 6220 2765
+Wire Wire Line
+	6220 2765 6220 2865
+$EndSCHEMATC
